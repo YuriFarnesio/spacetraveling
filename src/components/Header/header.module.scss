@@ -1,1 +1,14 @@
-// TODO
+.container {
+  height: 6.625rem;
+
+  display: flex;
+  align-items: center;
+
+  a {
+    height: 1.625rem;
+
+    img {
+      height: 100%;
+    }
+  }
+}
