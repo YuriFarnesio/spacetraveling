@@ -23,6 +23,7 @@ This project was developed using the following technologies:
 - [TypeScript](https://www.typescriptlang.org/)
 - [SASS](https://sass-lang.com/)
 - [Prismic CMS](https://prismic.io/)
+- [utterances](https://utteranc.es/)
 
 ## 🚀 Getting started
 
@@ -44,7 +45,7 @@ $ yarn dev
 
 ## 💻 Project
 
-Extra project of the third chapter of Ignite, where I create a blog.
+Challenge from the third chapter of Ignite, where I create a blog from scratch, which consumes Prismic data and has the interface implemented according to the Figma layout.
 
 This is a project developed during the third Chapter of Bootcamp Ignite ** presented by ** [@Rocketseat](https://github.com/Rocketseat) \*\*.
 
